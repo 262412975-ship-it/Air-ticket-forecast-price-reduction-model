@@ -1,0 +1,9 @@
+{
+  "路径": "${PROJECT_ROOT}/S2_有用性/数据/标签_全航司_满窗.parquet",
+  "md5": "7aefdc42c6078890ffd670f6ed33c0cd",
+  "S2统计md5": "7aefdc42c6078890ffd670f6ed33c0cd",
+  "一致": true,
+  "行数": 2272407,
+  "exclude_from": "2026-10-28",
+  "读法B": 14
+}

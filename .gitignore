@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Data / weights (never commit)
+*.parquet
+*.tsv
+*.tsv.gz
+*.csv.gz
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.joblib
+*.bin
+*.pt
+*.pth
+*.onnx
+model_*.txt
+**/模型/*.txt
+**/models/*.txt
+
+# Credentials / keys
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.p12
+credentials*
+private-store*
+local-store.json
+store.json
+
+# Logs / local
+*.log
+.DS_Store
+.idea/
+.vscode/
+_build_manifest.json
+
+# Tip score run outputs (never commit lists)
+**/尖端名单.csv
+**/tip_scores_example.csv
+**/账本/
+**/入选明细*.csv

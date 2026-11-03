@@ -1,0 +1,23 @@
+{
+  "A标签": "A1_默认38加晋升ly",
+  "A特征数": 46,
+  "晋升ly": [
+    "ly_route_depmonth_ratio",
+    "ly_route_depmonth_nflights",
+    "ly_route_depmonth_cap_ratio",
+    "ly_route_depmonth_price",
+    "ly_route_depweek_ratio",
+    "dest_avg_vol",
+    "dest_drop_rate",
+    "train_pct_pos"
+  ],
+  "A验证峰k2": 171.89678675754624,
+  "A测试同比例k2": 185.24463937621832,
+  "B方案数": 2,
+  "目录": "${PROJECT_ROOT}/S3_训练",
+  "说明md5": "9e552d011cb2e4ab5a2608e7eb28170e",
+  "一页纸md5": "a1720e89919c13422721716a3798ea1c",
+  "清单md5": "26ceab1a9a8a35efb6bbaf19a8c0b521",
+  "离线主候选": "A1_默认38加晋升ly",
+  "影子对照": "B2_全航司加航管2026新与2025"
+}
